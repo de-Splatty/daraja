@@ -142,7 +142,7 @@ MPESA_SHORTCODE = '174379'
 # This is only used on sandbox, do not set this variable in production
 # For sandbox use the Lipa na MPESA Online Shorcode provided on test credentials page
 
-MPESA_EXPRESS_SHORTCODE = 'mpesa_express_shortcode'
+MPESA_EXPRESS_SHORTCODE = '174379'
 
 # Type of shortcode
 # Possible values:
